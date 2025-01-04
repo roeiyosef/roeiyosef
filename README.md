@@ -35,10 +35,10 @@ When I'm not coding or studying, you’ll find me:
 
 ---
 
-### 💼 **Projects I'm Proud Of**
+### 💼 **Projects:**
 
--  **[Project 1 Name](https://github.com/yourusername/project1)** — *Short description of the project*
--  **[Project 2 Name](https://github.com/yourusername/project2)** — *Another cool project*
+-  **[SPL course assignment 1](https://github.com/roeiyosef/FinalSPL1)** — *SPL 1*
+-  **[SPL course assignment 2](https://github.com/roeiyosef/SPL2)** — *SPL 2*
 
 *You can see all my projects [here](https://github.com/roeiyosef?tab=repositories).*
 
