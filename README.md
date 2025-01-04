@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Roei Yosef]!  
+# 👋 Hi there, I'm Roei Yosef!  
 ### 🧑‍🎓 **Computer Science Student @ BGU**  
 ### 🚀 **Passionate About AI, Computer Vision, and Problem-Solving**
 
