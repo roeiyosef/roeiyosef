@@ -41,7 +41,7 @@ When I'm not coding or studying, you’ll find me:
 - 🎮 **[Project 2 Name](https://github.com/yourusername/project2)** — *Another cool project*
 - 📊 **[Project 3 Name](https://github.com/yourusername/project3)** — *Data science, visualization, or ML project*
 
-*You can see all my projects [here]([https://github.com/yourusername?tab=repositories](https://github.com/roeiyosef?tab=repositories)).*
+*You can see all my projects [here]([https://github.com/roeiyosef?tab=repositories]).*
 
 ---
 
