@@ -37,11 +37,10 @@ When I'm not coding or studying, you’ll find me:
 
 ### 💼 **Projects I'm Proud Of**
 
-- 🛡️ **[Project 1 Name](https://github.com/yourusername/project1)** — *Short description of the project*
-- 🎮 **[Project 2 Name](https://github.com/yourusername/project2)** — *Another cool project*
-- 📊 **[Project 3 Name](https://github.com/yourusername/project3)** — *Data science, visualization, or ML project*
+-  **[Project 1 Name](https://github.com/yourusername/project1)** — *Short description of the project*
+-  **[Project 2 Name](https://github.com/yourusername/project2)** — *Another cool project*
 
-*You can see all my projects [here]([https://github.com/roeiyosef?tab=repositories]).*
+*You can see all my projects [here](https://github.com/roeiyosef?tab=repositories).*
 
 ---
 
