@@ -29,8 +29,7 @@ When I'm not coding or studying, you’ll find me:
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux) ![Windows](https://img.shields.io/badge/-Windows-000?&logo=Windows)
 
 ---
-
-### 📊 **Leetcode Stats**
+### 🧠 **LeetCode Stats – Roei Y.**
 ![LeetCode Stats](https://leetcard.jacoblin.cool/user8771oX?theme=unicorn&font=Cascadia)
 ---
 
