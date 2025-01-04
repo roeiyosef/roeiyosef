@@ -31,8 +31,7 @@ When I'm not coding or studying, you’ll find me:
 ---
 
 ### 📊 **Leetcode Stats**
-![LeetCode Stats](https://leetcard.jacoblin.cool/your-username?theme=dark&font=Monsterrat)
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/user8771oX?theme=unicorn&font=Cascadia)
 ---
 
 ### 💼 **Projects I'm Proud Of**
