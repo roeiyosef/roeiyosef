@@ -41,15 +41,12 @@ When I'm not coding or studying, you’ll find me:
 - 🎮 **[Project 2 Name](https://github.com/yourusername/project2)** — *Another cool project*
 - 📊 **[Project 3 Name](https://github.com/yourusername/project3)** — *Data science, visualization, or ML project*
 
-*You can see all my projects [here](https://github.com/yourusername?tab=repositories).*
+*You can see all my projects [here]([https://github.com/yourusername?tab=repositories](https://github.com/roeiyosef?tab=repositories)).*
 
 ---
 
 ### 📬 **Contact Me**
-- 📧 **[YourEmail@example.com](mailto:YourEmail@example.com)**  
-- 💼 **[LinkedIn](https://linkedin.com/in/your-profile)**  
-- 🧠 **[LeetCode Profile](https://leetcode.com/yourusername/)**
-
+- 📧 **[roei.a.yosef@gmail.com](mailto:roei.a.yosef@gmail.com)**  
 
 ### 📊 **Contribution Graph**
 
