@@ -44,13 +44,3 @@ When I'm not coding or studying, you’ll find me:
 
 ### 📬 **Contact Me**
 - 📧 **[roei.a.yosef@gmail.com](mailto:roei.a.yosef@gmail.com)**  
-
-### 📊 **Contribution Graph**
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github)](https://github.com/yourusername)
-
----
-
-🌟 *"Strive for progress, not perfection."*
-
----
