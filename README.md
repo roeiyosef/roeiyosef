@@ -16,43 +16,30 @@ When I'm not coding or studying, you’ll find me:
 ### 🛠️ **Technologies I Work With**
 
 #### 🧠 **Programming Languages**
-- **Python**  
-  [![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)  
-- **Java**  
-  [![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)  
-- **C++**  
-  [![C++](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)  
-- **JavaScript**  
-  [![JavaScript](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev)  
+- **Python** [![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)  
+- **Java** [![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)  
+- **C++** [![C++](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)  
+- **JavaScript** [![JavaScript](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev)  
 
 ---
 
 #### ⚙️ **Frameworks & Tools**
-- **React**  
-  [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)  
-- **Node.js**  
-  [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)  
-- **OpenCV**  
-  [![OpenCV](https://skillicons.dev/icons?i=opencv)](https://skillicons.dev)  
-- **Maven**  
-  [![Maven](https://skillicons.dev/icons?i=maven)](https://skillicons.dev)  
+- **React** [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)  
+- **Node.js** [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)  
+- **OpenCV** [![OpenCV](https://skillicons.dev/icons?i=opencv)](https://skillicons.dev)  
+- **Maven** [![Maven](https://skillicons.dev/icons?i=maven)](https://skillicons.dev)  
 
 ---
 
 #### 🗂️ **Databases**
-- **MongoDB**  
-  [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)  
-- **MySQL**  
-  [![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)  
+- **MongoDB** [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)  
+- **MySQL** [![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)  
 
 ---
 
 #### 💻 **Operating Systems**
-- **Linux**  
-  [![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)  
-- **Windows**  
-  [![Windows](https://skillicons.dev/icons?i=windows)](https://skillicons.dev) 
-
+- **Linux** [![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)  
+- **Windows** [![Windows](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)  
 
 
 ### 🧠 **LeetCode Stats – Roei Y.**
