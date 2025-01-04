@@ -16,31 +16,36 @@ When I'm not coding or studying, you’ll find me:
 ### 🛠️ **Technologies I Work With**
 
 #### 🧠 **Programming Languages**
-- **Python** [![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)  
-- **Java** [![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)  
-- **C++** [![C++](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)  
-- **JavaScript** [![JavaScript](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev)  
+
+| **Python** | **C++** | **Java** | **JavaScript** | **TypeScript** |
+|:----------:|:-------:|:-------:|:-------------:|:-------------:|
+| ![Python](https://skillicons.dev/icons?i=python) | ![C++](https://skillicons.dev/icons?i=cpp) | ![Java](https://skillicons.dev/icons?i=java) | ![JavaScript](https://skillicons.dev/icons?i=javascript) | ![TypeScript](https://skillicons.dev/icons?i=typescript) |
 
 ---
 
 #### ⚙️ **Frameworks & Tools**
-- **React** [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)  
-- **Node.js** [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)  
-- **OpenCV** [![OpenCV](https://skillicons.dev/icons?i=opencv)](https://skillicons.dev)  
-- **Maven** [![Maven](https://skillicons.dev/icons?i=maven)](https://skillicons.dev)  
+
+| **React** | **Node.js** | **OpenCV** | **Maven** |
+|:---------:|:----------:|:---------:|:---------:|
+| ![React](https://skillicons.dev/icons?i=react) | ![Node.js](https://skillicons.dev/icons?i=nodejs) | ![OpenCV](https://skillicons.dev/icons?i=opencv) | ![Maven](https://skillicons.dev/icons?i=maven) |
 
 ---
 
 #### 🗂️ **Databases**
-- **MongoDB** [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)  
-- **MySQL** [![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)  
+
+| **MongoDB** | **MySQL** |
+|:-----------:|:--------:|
+| ![MongoDB](https://skillicons.dev/icons?i=mongodb) | ![MySQL](https://skillicons.dev/icons?i=mysql) |
 
 ---
 
 #### 💻 **Operating Systems**
-- **Linux** [![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)  
-- **Windows** [![Windows](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)  
 
+| **Linux** | **Windows** |
+|:---------:|:---------:|
+| ![Linux](https://skillicons.dev/icons?i=linux) | ![Windows](https://skillicons.dev/icons?i=windows) |
+
+---
 
 ### 🧠 **LeetCode Stats – Roei Y.**
 ![LeetCode Stats](https://leetcard.jacoblin.cool/user8771oX?theme=dark&font=Monsterrat)
