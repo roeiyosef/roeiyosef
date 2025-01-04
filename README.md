@@ -12,6 +12,9 @@ When I'm not coding or studying, you’ll find me:
 - 📚 Reading about **Neural Networks** and **Computational Neuroscience**  
 - 💻 Experimenting with **new programming languages**
 
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 ### 🛠️ **Technologies I Work With**
 
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python&logoColor=3776AB)
