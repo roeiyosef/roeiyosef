@@ -46,6 +46,9 @@ When I'm not coding or studying, you’ll find me:
 | ![Linux](https://skillicons.dev/icons?i=linux) | ![Windows](https://skillicons.dev/icons?i=windows) |
 
 
+---
+
+
 ### 💼 **Projects:**
 
 -  **[SPL course assignment 1](https://github.com/roeiyosef/FinalSPL1)** — *SPL 1*
