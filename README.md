@@ -45,13 +45,6 @@ When I'm not coding or studying, you’ll find me:
 |:---------:|:---------:|
 | ![Linux](https://skillicons.dev/icons?i=linux) | ![Windows](https://skillicons.dev/icons?i=windows) |
 
----
-
-### 🧠 **LeetCode Stats – Roei Y.**
-![LeetCode Stats](https://leetcard.jacoblin.cool/user8771oX?theme=dark&font=Monsterrat)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Roei_Yellow?style=for-the-badge&logo=leetcode)](https://leetcode.com/user8771oX/)
-
----
 
 ### 💼 **Projects:**
 
