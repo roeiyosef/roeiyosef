@@ -16,6 +16,7 @@
 #### ⚙️ **Frameworks & Tools**
 
 | **Maven** |
+|:-----------:|
 |![Maven](https://skillicons.dev/icons?i=maven) |
 
 ---
