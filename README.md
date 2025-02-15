@@ -8,7 +8,7 @@
 #### 🧠 **Programming Languages**
 
 | **Python** | **C++** | **Java** | **C#** |
-|:----------:|:-------:|:-------:|:-------------:|:-------------:|
+|:----------:|:-------:|:-------:|:-------------:|
 | ![Python](https://skillicons.dev/icons?i=python) | ![C++](https://skillicons.dev/icons?i=cpp) | ![Java](https://skillicons.dev/icons?i=java) | ![JavaScript](https://skillicons.dev/icons?i=javascript) | ![C#](https://skillicons.dev/icons?i=c#) |
 
 ---
