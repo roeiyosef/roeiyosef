@@ -1,33 +1,23 @@
 # 👋 Hi there, I'm Roei Yosef!  
 ### 🧑‍🎓 **Computer Science Student @ BGU**  
-### 🚀 **Passionate About AI, Computer Vision, and Problem-Solving**
 
 ---
-
-### 📚 **About Me**
-I'm a **Computer Science Student** passionate about learning and exploring the world of **Artificial Intelligence** and **Computer Vision**. I love tinkering with **Machine Learning algorithms** and building **Full-Stack projects**.
-
-When I'm not coding or studying, you’ll find me:  
-- 🧠 Solving problems on **LeetCode** or **HackerRank**  
-- 📚 Reading about **Neural Networks** and **Computational Neuroscience**  
-- 💻 Experimenting with **new programming languages**
-
 
 ### 🛠️ **Technologies I Work With**
 
 #### 🧠 **Programming Languages**
 
-| **Python** | **C++** | **Java** | **JavaScript** | **TypeScript** |
+| **Python** | **C++** | **Java** | **C#** |
 |:----------:|:-------:|:-------:|:-------------:|:-------------:|
-| ![Python](https://skillicons.dev/icons?i=python) | ![C++](https://skillicons.dev/icons?i=cpp) | ![Java](https://skillicons.dev/icons?i=java) | ![JavaScript](https://skillicons.dev/icons?i=javascript) | ![TypeScript](https://skillicons.dev/icons?i=typescript) |
+| ![Python](https://skillicons.dev/icons?i=python) | ![C++](https://skillicons.dev/icons?i=cpp) | ![Java](https://skillicons.dev/icons?i=java) | ![JavaScript](https://skillicons.dev/icons?i=javascript) | ![C#](https://skillicons.dev/icons?i=c#) |
 
 ---
 
 #### ⚙️ **Frameworks & Tools**
 
-| **React** | **Node.js** | **OpenCV** | **Maven** |
+| **Maven** |
 |:---------:|:----------:|:---------:|:---------:|
-| ![React](https://skillicons.dev/icons?i=react) | ![Node.js](https://skillicons.dev/icons?i=nodejs) | ![OpenCV](https://skillicons.dev/icons?i=opencv) | ![Maven](https://skillicons.dev/icons?i=maven) |
+|![Maven](https://skillicons.dev/icons?i=maven) |
 
 ---
 
