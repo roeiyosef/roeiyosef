@@ -23,9 +23,9 @@
 
 #### 🗂️ **Databases**
 
-| **MongoDB** | **MySQL** |
-|:-----------:|:--------:|
-| ![MongoDB](https://skillicons.dev/icons?i=mongodb) | ![MySQL](https://skillicons.dev/icons?i=mysql) |
+| **MySQL** |
+|:-----------:|
+| ![MySQL](https://skillicons.dev/icons?i=mysql) |
 
 ---
 
