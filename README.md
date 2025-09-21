@@ -7,7 +7,7 @@
 
 #### 🧠 **Programming Languages**
 
-| **Python** | **C++** | **Java** | **JavaScript** | **HTML** | ** CSS **|
+| **Python** | **C++** | **Java** | **JavaScript** | **HTML** | **CSS**|
 |:----------:|:-------:|:-------:|:-------:|:-------:|:-------:|
 | ![Python](https://skillicons.dev/icons?i=python) | ![C++](https://skillicons.dev/icons?i=cpp) | ![Java](https://skillicons.dev/icons?i=java) | ![JavaScript](https://skillicons.dev/icons?i=javascript) | ![HTML](https://skillicons.dev/icons?i=html) | ![CSS](https://skillicons.dev/icons?i=css)
 
